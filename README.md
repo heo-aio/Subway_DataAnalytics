@@ -90,3 +90,10 @@ Subway_DataAnalytics/
 
 > 💡 `foilum_html/subway_congestion_heatmap.html` 파일을 로컬 컴퓨터로 **다운로드한 후, 크롬(Chrome)이나 사파리(Safari) 등 웹 브라우저에서 실행**하시면 마우스 드래그, 줌 인/아웃을 통해 지리적 밀집도를 직접 인터랙티브하게 조작하며 확인할 수 있습니다.
 
+### 📊 24시간 시간대별 총 승하차 인원 추이 및 핫스팟
+<img width="100%" alt="시간대별승하차인원추이" src="https://github.com/user-attachments/assets/f83d39e1-0389-4285-8927-c5dbaf44229e" />
+<img width="100%" alt="승차및하차핫스팟" src="https://github.com/user-attachments/assets/364be8cd-859a-4d8f-b790-2af03e46fe30" />
+
+
+
+
