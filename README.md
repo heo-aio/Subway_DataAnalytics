@@ -75,6 +75,7 @@ Subway_DataAnalytics/
  │   └── Seoul_Subway_Congestion_Analysis_and_Safety_Strategy.ipynb   # 분석 및 전처리 전체 소스 코드 (Jupyter Notebook)
  └── foilum_html/
      └── subway_congestion_heatmap.html                              # 지리적 위험 핫스팟 지도 시각화 (Interactive HTML)
+```
 
 ## 🚀 5. 시각화 결과물 확인 (Visualizations)
 
